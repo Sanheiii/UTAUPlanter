@@ -1,2 +1,2 @@
-name=点选填词器
+name=点选播种机
 execute=Planter.exe

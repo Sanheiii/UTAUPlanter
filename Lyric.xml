@@ -302,4 +302,62 @@
     <word title="压">yae</word>
     <word title="狗">goue</word>
   </sentence>
+  <sentence background="#D8E4BC">
+    <word title="在"></word>
+    <word title="英">yingm</word>
+    <word title="国"></word>
+  </sentence>
+  <sentence background="#D8E4BC">
+    <word title="一">yim</word>
+    <word title="袋">daim</word>
+    <word title="能"></word>
+    <word title="顶">dingm</word>
+    <word title="两">liangm</word>
+    <word title="袋"></word>
+    <word title="撒">sam</word>
+  </sentence>
+  <sentence background="#D8E4BC">
+    <word title="小">xiaom</word>
+    <word title="麦">maim</word>
+    <word title="亩">mum</word>
+    <word title="产">chanm</word>
+    <word title="一"></word>
+    <word title="千">qianm</word>
+    <word title="八">bam</word>
+  </sentence>
+  <sentence background="#FDE9D9">
+    <word title="四">sir</word>
+    <word title="大"></word>
+    <word title="名">mingr</word>
+    <word title="捕"></word>
+  </sentence>
+  <sentence background="#FDE9D9">
+    <word title="内">neir</word>
+    <word title="含">hanr</word>
+    <word title="诱"></word>
+    <word title="杀">shar</word>
+    <word title="剂"></word>
+  </sentence>
+  <sentence background="#FDE9D9">
+    <word title="高"></word>
+    <word title="空"></word>
+    <word title="喷"></word>
+    <word title="药"></word>
+    <word title="喷"></word>
+    <word title="不"></word>
+    <word title="匀">yunr</word>
+  </sentence>
+  <sentence background="#FDE9D9">
+    <word title="根"></word>
+    <word title="本"></word>
+    <word title="没"></word>
+    <word title="法"></word>
+    <word title="和">her</word>
+    <word title="咱"></word>
+    <word title="人">renr</word>
+    <word title="工"></word>
+    <word title="打"></word>
+    <word title="药"></word>
+    <word title="比"></word>
+  </sentence>
 </xml>

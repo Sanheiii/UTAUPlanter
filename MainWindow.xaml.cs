@@ -23,7 +23,8 @@ namespace Planter
     public partial class MainWindow : Window
     {
         UtauPlugin utauPlugin = new UtauPlugin();
-        List<Button> lyricButtons=new List<Button>();
+        List<Button> lyricButtons = new List<Button>();
+        List<Button> galleryButtons = new List<Button>();
         int index=0;
         int Index
         {
@@ -76,6 +77,7 @@ namespace Planter
                     string lyric = (wordNode as XmlElement).InnerText;
                     Button button=GalleryButtonFactory(title,lyric,brush);
                     wrapPanel.Children.Add(button);
+                    galleryButtons.Add(button);
                 }
                 gallery.Children.Add(wrapPanel);
             }
@@ -173,7 +175,18 @@ namespace Planter
         {
             AboutDialog dialog = new AboutDialog();
             dialog.Owner = this;
-            dialog.Show();
+            dialog.ShowInTaskbar = false;
+            dialog.ShowDialog();
+        }
+
+        private void SearchBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            TextBox box=sender as TextBox;
+            foreach (Button btn in galleryButtons)
+            {
+                string lrc = btn.Tag as string;
+                btn.IsEnabled=lrc.Contains(box.Text)&&lrc!="";
+            }
         }
     }
 }

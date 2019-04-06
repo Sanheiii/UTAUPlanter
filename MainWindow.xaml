@@ -36,12 +36,14 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
-            <Button Name="OK" Click="OK_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="0">确定</Button>
-            <Button Name="Cancel" Click="Cancel_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="1">取消</Button>
-            <Button Name="About" Click="About_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="3">关于</Button>
+            <Button Name="oK" Click="OK_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="0">确定</Button>
+            <Button Name="cancel" Click="Cancel_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="1">取消</Button>
+            <TextBox Name="searchBox" TextChanged="SearchBox_TextChanged" Grid.Column="2" Width="100" Margin="5,2,5,2"/>
+            <Button Name="about" Click="About_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="4">关于</Button>
         </Grid>
     </Grid>
 </Window>

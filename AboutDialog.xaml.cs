@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -22,6 +23,13 @@ namespace Planter
         public AboutDialog()
         {
             InitializeComponent();
+            version.Content ="Ver "+ Assembly.GetExecutingAssembly().GetName().Version.ToString();
+        }
+
+        private void Hyperlink_Click(object sender, RoutedEventArgs e)
+        {
+            var link = sender as Hyperlink;
+            System.Diagnostics.Process.Start(link.NavigateUri.ToString());  
         }
     }
 }

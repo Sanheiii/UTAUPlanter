@@ -5,8 +5,49 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Planter"
         mc:Ignorable="d"
-        Title="AboutDialog" Height="450" Width="800" WindowStartupLocation="CenterOwner">
+        Title="关于" Height="380" Width="400" WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label FontWeight="Bold" FontSize="28" HorizontalAlignment="Center">点选播种机</Label>
+            <Label FontSize="16" HorizontalAlignment="Center" Name="version"/>
+            <Label HorizontalAlignment="Center">Copyright© 2019 by Sanhei</Label>
+            <Label Margin="10,0,10,0" FontSize="16" FontWeight="Bold">信息:</Label>
+            <StackPanel Orientation="Horizontal" Margin="10,0,10,0">
+                <Label>作者邮箱:</Label>
+                <Label>
+                    <Hyperlink NavigateUri="mailto:w953934508@outlook.com" Click="Hyperlink_Click">w953934508@outlook.com</Hyperlink>
+                </Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10,0,10,0">
+                <Label>开源地址:</Label>
+                <Label>
+                    <Hyperlink NavigateUri="https://github.com/Sanheiii/UTAUPlanter" Click="Hyperlink_Click">https://github.com/Sanheiii/UTAUPlanter</Hyperlink>
+                </Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10,0,10,0">
+                <Label>许可证:</Label>
+                <Label>
+                    <Hyperlink NavigateUri="https://github.com/Sanheiii/UTAUPlanter/blob/master/LICENSE" Click="Hyperlink_Click">MIT LICENSE</Hyperlink>
+                </Label>
+            </StackPanel>
+            <Label Margin="10,0,10,0" FontSize="16" FontWeight="Bold">引用:</Label>
+            <StackPanel Orientation="Horizontal" Margin="10,0,10,0">
+                <Label>utauPlugin:</Label>
+                <Label>
+                    <Hyperlink NavigateUri="https://github.com/delta-kimigatame/utauPlugin" Click="Hyperlink_Click">https://github.com/delta-kimigatame/utauPlugin</Hyperlink>
+                </Label>
+            </StackPanel>
+            <Label Margin="10,0,10,0" FontSize="16" FontWeight="Bold">鸣谢:</Label>
+            <StackPanel Orientation="Horizontal" Margin="10,0,10,0">
+                <Label>腾龙工作室:</Label>
+                <Label>
+                    <Hyperlink NavigateUri="https://www.tenlonstudio.com/" Click="Hyperlink_Click">https://www.tenlonstudio.com</Hyperlink>
+                </Label>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>
