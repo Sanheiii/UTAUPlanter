@@ -1,0 +1,305 @@
+﻿<xml version="1.0" encoding="utf-8">
+  <sentence background="#B8CCE4">
+    <word title="你">nim</word>
+    <word title="们">menm</word>
+    <word title="想">xiangm</word>
+    <word title="干">ganm</word>
+    <word title="什">shenm</word>
+    <word title="么">mem</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="我">wof</word>
+    <word title="要">yaof</word>
+    <word title="金">jinf</word>
+    <word title="坷">kef</word>
+    <word title="垃">laf</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="非">feif</word>
+    <word title="洲">zhouf</word>
+    <word title="农">nongf</word>
+    <word title="业">yef</word>
+    <word title="不">buf</word>
+    <word title="发">faf</word>
+    <word title="达">daf</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="必">bif</word>
+    <word title="须">xuf</word>
+    <word title="要">yaofa</word>
+    <word title="有">youf</word>
+    <word title="金">jinfa</word>
+    <word title="坷">kefa</word>
+    <word title="垃">lafa</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="我">wor</word>
+    <word title="要">yaor</word>
+    <word title="金">jinr</word>
+    <word title="坷">ker</word>
+    <word title="垃">lar</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="日">rir</word>
+    <word title="本">benr</word>
+    <word title="资">zir</word>
+    <word title="源">yuanr</word>
+    <word title="太">tair</word>
+    <word title="缺">quer</word>
+    <word title="乏">far</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="必">bir</word>
+    <word title="须">xur</word>
+    <word title="要">yaora</word>
+    <word title="有">your</word>
+    <word title="金">jinra</word>
+    <word title="坷">kera</word>
+    <word title="垃">lara</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="妈">maf</word>
+    <word title="妈">maf</word>
+    <word title="的"></word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="金"></word>
+    <word title="坷"></word>
+    <word title="垃"></word>
+    <word title="他"></word>
+    <word title="是"></word>
+    <word title="我">wofa</word>
+    <word title="的">def</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="不">bum</word>
+    <word title="能">nengm</word>
+    <word title="打">dam</word>
+    <word title="架">jiam</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="金">jinm</word>
+    <word title="坷">kem</word>
+    <word title="垃">lam</word>
+    <word title="好">haom</word>
+    <word title="处">chum</word>
+    <word title="都">doum</word>
+    <word title="有">youm</word>
+    <word title="啥">sham</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="谁">sheim</word>
+    <word title="说">shuom</word>
+    <word title="对">duim</word>
+    <word title="了">lem</word>
+    <word title="就">jium</word>
+    <word title="给">geim</word>
+    <word title="他">tam</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="肥">feifa</word>
+    <word title="料">liaof</word>
+    <word title="掺">chanf</word>
+    <word title="了">lef</word>
+    <word title="金">jinfs</word>
+    <word title="坷">kefs</word>
+    <word title="垃">lafs</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="不">bufa</word>
+    <word title="流">liuf</word>
+    <word title="失">shif</word>
+    <word title="不">bufs</word>
+    <word title="蒸">zhengf</word>
+    <word title="发">fafa</word>
+    <word title="零">lingf</word>
+    <word title="浪">langf</word>
+    <word title="费">feifs</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="肥">feir</word>
+    <word title="料">liaor</word>
+    <word title="掺">chanr</word>
+    <word title="了">liaora</word>
+    <word title="金">jinrs</word>
+    <word title="坷">kers</word>
+    <word title="垃">lars</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="能">nengr</word>
+    <word title="吸">xir</word>
+    <word title="收">shour</word>
+    <word title="两">liangr</word>
+    <word title="米">mir</word>
+    <word title="下">xiar</word>
+    <word title="的">dir</word>
+    <word title="氮">danr</word>
+    <word title="磷">linr</word>
+    <word title="钾">jiar</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="世">shifa</word>
+    <word title="界">jief</word>
+    <word title="肥">feifd</word>
+    <word title="料">liaofa</word>
+    <word title="都">douf</word>
+    <word title="涨">zhangf</word>
+    <word title="价">jiaf</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="肥">feiff</word>
+    <word title="料">liaofs</word>
+    <word title="掺">chanfa</word>
+    <word title="了">lefa</word>
+    <word title="金">jinfd</word>
+    <word title="坷">kefd</word>
+    <word title="垃">lafd</word>
+  </sentence>
+  <sentence background="#FF99CC">
+    <word title="一">yif</word>
+    <word title="袋">daif</word>
+    <word title="能">nengf</word>
+    <word title="顶">dingf</word>
+    <word title="两">liangf</word>
+    <word title="袋">daifa</word>
+    <word title="撒">saf</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="用">yongr</word>
+    <word title="了">liaors</word>
+    <word title="金">jinrd</word>
+    <word title="坷">kerd</word>
+    <word title="垃">lard</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="小">xiaor</word>
+    <word title="麦">mair</word>
+    <word title="亩">mur</word>
+    <word title="产">chanra</word>
+    <word title="一">yir</word>
+    <word title="千">qianr</word>
+    <word title="八">bar</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="日">rira</word>
+    <word title="本">benra</word>
+    <word title="的">der</word>
+    <word title="粮">liangra</word>
+    <word title="食">shir</word>
+    <word title="再">zair</word>
+    <word title="也">yer</word>
+    <word title="不">bur</word>
+    <word title="向">xiangr</word>
+    <word title="美">meir</word>
+    <word title="国">guor</word>
+    <word title="进">jinrf</word>
+    <word title="口">kour</word>
+    <word title="啦">larf</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="哈">har</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="小"></word>
+    <word title="鬼">guim</word>
+    <word title="子">zim</word>
+    <word title="真">zhenm</word>
+    <word title="不">buma</word>
+    <word title="傻">shama</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="金">jinma</word>
+    <word title="坷">kema</word>
+    <word title="垃">lama</word>
+    <word title="给">geima</word>
+    <word title="了">lema</word>
+    <word title="他">tama</word>
+    <word title="对">duima</word>
+    <word title="美">meim</word>
+    <word title="国">guom</word>
+    <word title="农">nongm</word>
+    <word title="业">yem</word>
+    <word title="危">weim</word>
+    <word title="害">haim</word>
+    <word title="大">dama</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="绝">juem</word>
+    <word title="不">bums</word>
+    <word title="能">nengma</word>
+    <word title="给">geims</word>
+    <word title="他">tams</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="非">feim</word>
+    <word title="洲">zhoum</word>
+    <word title="农">nongma</word>
+    <word title="业">yema</word>
+    <word title="不">bumd</word>
+    <word title="发">fam</word>
+    <word title="达">dams</word>
+    <word title="我">wom</word>
+    <word title="们">menma</word>
+    <word title="都">douma</word>
+    <word title="要">yaom</word>
+    <word title="支">zhim</word>
+    <word title="援">yuanm</word>
+    <word title="他">tamd</word>
+  </sentence>
+  <sentence background="#B8CCE4">
+    <word title="金">jinms</word>
+    <word title="坷">kems</word>
+    <word title="垃">lams</word>
+    <word title="你">nima</word>
+    <word title="们">menms</word>
+    <word title="日">rim</word>
+    <word title="本">benm</word>
+    <word title="别">biem</word>
+    <word title="想">xiangma</word>
+    <word title="啦">lamd</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="狡">jiaor</word>
+    <word title="猾">huar</word>
+    <word title="狡">jiaora</word>
+    <word title="猾">huara</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="没">meira</word>
+    <word title="有">youra</word>
+    <word title="金">jinrg</word>
+    <word title="坷">kerf</word>
+    <word title="垃">larg</word>
+    <word title="怎">zenr</word>
+    <word title="么">mer</word>
+    <word title="种">zhongr</word>
+    <word title="庄">zhuangr</word>
+    <word title="稼">jiara</word>
+  </sentence>
+  <sentence background="#FFFF66">
+    <word title="金">jinrh</word>
+    <word title="坷">kerg</word>
+    <word title="垃">larh</word>
+    <word title="金">jinrj</word>
+    <word title="坷">kerh</word>
+    <word title="垃">larj</word>
+  </sentence>
+  <sentence background="#DCE6F1">
+    <word title="美">mein</word>
+    <word title="国">guon</word>
+    <word title="圣">shengn</word>
+    <word title="地">din</word>
+    <word title="亚">yan</word>
+    <word title="戈">gen</word>
+  </sentence>
+  <sentence background="#95B3D7">
+    <word title="阿">ae</word>
+    <word title="妹">mee</word>
+    <word title="你">rie</word>
+    <word title="看">cane</word>
+    <word title="上">shenge</word>
+    <word title="帝">die</word>
+    <word title="压">yae</word>
+    <word title="狗">goue</word>
+  </sentence>
+</xml>

@@ -1,0 +1,2 @@
+name=µãÑ¡Ìî´ÊÆ÷
+execute=Planter.exe

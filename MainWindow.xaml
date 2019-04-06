@@ -1,0 +1,47 @@
+﻿<Window x:Class="Planter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Planter"
+        mc:Ignorable="d"
+        Title="播种机" Height="500" Width="600" MinWidth="350" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFF0F0F0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0">歌词</Label>
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Margin="10,0,10,0">
+                <StackPanel Name="workspace" Grid.Column="0" Background="White"/>
+            </ScrollViewer>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0">音源</Label>
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Margin="10,0,10,0">
+                <StackPanel Name="gallery" Background="White"/>
+            </ScrollViewer>
+        </Grid>
+        <Grid Grid.Row="2" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="OK" Click="OK_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="0">确定</Button>
+            <Button Name="Cancel" Click="Cancel_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="1">取消</Button>
+            <Button Name="About" Click="About_Click" Width="50" HorizontalAlignment="Left" Margin="5,2,5,2" Grid.Column="3">关于</Button>
+        </Grid>
+    </Grid>
+</Window>
